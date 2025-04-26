@@ -1,0 +1,16 @@
+Power BI Interface - Key Sections (Quick Tour)
+
+- Report View 🖼️:  
+  Design area where you build visual reports with charts, graphs, and filters.
+
+- Data View 📂:  
+  Table view showing raw data; you can inspect, clean, and create calculated columns.
+
+- Model View 🧩:  
+  Relationship map where you link tables together to define how data connects.
+
+
+In short:  
+Report = Visualize,  
+Data = Explore,  
+Model = Connect.
